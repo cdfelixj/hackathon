@@ -1,0 +1,16 @@
+{
+  "short_name": "Maps Area Insights",
+  "name": "Maps Area Insights - Discover Amazing Places",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#667eea",
+  "background_color": "#ffffff",
+  "description": "Discover personalized recommendations for any location on Google Maps"
+}
